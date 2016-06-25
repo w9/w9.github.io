@@ -77,6 +77,30 @@
           case 'KeyR':
             showText(generateRDataFrame);
             break;
+          case 'Digit1':
+            currentColor = 1;
+            redrawOverlay();
+            break;
+          case 'Digit2':
+            currentColor = 2;
+            redrawOverlay();
+            break;
+          case 'Digit3':
+            currentColor = 3;
+            redrawOverlay();
+            break;
+          case 'Digit4':
+            currentColor = 4;
+            redrawOverlay();
+            break;
+          case 'Digit5':
+            currentColor = 5;
+            redrawOverlay();
+            break;
+          case 'Digit6':
+            currentColor = 6;
+            redrawOverlay();
+            break;
           default:
             break;
         }
@@ -92,6 +116,7 @@
           add.tspan('E = export CSV').newLine();
           add.tspan('S = show CSV').newLine();
           add.tspan('R = show R data.frame').newLine();
+          add.tspan('1-6 = pick color directly').newLine();
           add.tspan('').newLine();
           add.tspan('current color = ' + currentColor).fill(colorPalette[currentColor-1]).newLine();
           add.tspan('number of points = ' + pointArray.length).newLine();
