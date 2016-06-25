@@ -1,0 +1,17 @@
+body {
+  background-color: #fdf6e3;
+}
+
+#index {
+  margin: 20px;
+  font-family: monospace;
+}
+
+#index a {
+  color: #333333;
+}
+
+#index a:hover {
+  color: #777777;
+  font-weight: bold;
+}
