@@ -1,0 +1,2 @@
+main:
+	chromium index.html
