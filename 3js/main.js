@@ -109,7 +109,7 @@ function init() {
 
   // Sprites
   
-  for (i in POINT_DATA) {
+  for (var i in POINT_DATA) {
     var x = POINT_DATA[i][0];
     var y = POINT_DATA[i][1];
     var z = POINT_DATA[i][2] + 50;
