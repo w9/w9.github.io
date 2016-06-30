@@ -118,7 +118,7 @@ function init() {
     console.log(c);
 
     var geometry = new THREE.CircleGeometry( 5, 32 );
-    var material = new THREE.MeshBasicMaterial( { color: 0xffff00 } );
+    var material = new THREE.MeshBasicMaterial( { color: new THREE.Color(c) } );
     var circle = new THREE.Mesh( geometry, material );
     circle.position.set( x, z, y );
     scene.add( circle );
