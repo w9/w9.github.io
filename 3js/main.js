@@ -1,4 +1,4 @@
-var COLOR_PALETTE = ['rgba(219, 45, 32, 0.3)','rgba(1, 160, 228, 0.3)','#01a252','#a16a94','#222222','#b5e4f4'];
+var COLOR_PALETTE = ['#db2d20','#01a0e4','#01a252','#a16a94','#222222','#b5e4f4'];
 var SCREEN_WIDTH = window.innerWidth;
 var SCREEN_HEIGHT = window.innerHeight;
 var VIEW_ANGLE = 45;
