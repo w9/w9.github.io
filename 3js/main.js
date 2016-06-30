@@ -117,13 +117,19 @@ function init() {
 
     console.log(c);
 
-    var discTxtr = new THREE.Texture(mkDisc(c));
-        discTxtr.needsUpdate = true;
-    var discMtrl = new THREE.SpriteMaterial( { map: discTxtr } );
-    var discSprt = new THREE.Sprite( discMtrl );
-    discSprt.position.set( x, z, y );
-    discSprt.scale.set( 5, 5, 1 );
-    scene.add( discSprt );
+    var geometry = new THREE.CircleGeometry( 5, 32 );
+    var material = new THREE.MeshBasicMaterial( { color: 0xffff00 } );
+    var circle = new THREE.Mesh( geometry, material );
+    circle.position.set( x, z, y );
+    scene.add( circle );
+
+    //var discTxtr = new THREE.Texture(mkDisc(c));
+    //    discTxtr.needsUpdate = true;
+    //var discMtrl = new THREE.SpriteMaterial( { map: discTxtr } );
+    //var discSprt = new THREE.Sprite( discMtrl );
+    //discSprt.position.set( x, z, y );
+    //discSprt.scale.set( 5, 5, 1 );
+    //scene.add( discSprt );
   }
 
   scene.fog = new THREE.FogExp2( 0x9999ff, 0.00025 );
