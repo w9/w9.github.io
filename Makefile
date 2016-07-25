@@ -1,0 +1,2 @@
+main:
+	pug --pretty *.pug
