@@ -1,6 +1,6 @@
 [submodule "zp"]
 	path = zp
-	url = https://github.com/w9/zp
+	url = https://github.com/w9/zp.git
 [submodule "dati"]
 	path = dati
 	url = https://github.com/w9/dati
