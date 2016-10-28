@@ -1,3 +1,9 @@
+# Haskell Tweets
+
+These are my quick notes in the path of learning Haskell.
+
+---
+
 The `Ordering` type is a `Monoid` in the "lexical graphical ordering" sense.
 
 ---
