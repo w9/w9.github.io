@@ -65,15 +65,7 @@ Now it's easy to see that this new `<*>` scheme can be generated to any number o
                                      g :: a -> b -> c -> d
     \x y z -> pure g <*> x <*> y <*> z :: f a -> f b -> f c -> f d
 
+## Why `traverse` needs `f` to be `Applicative`
 
-## `sequenceA` does not preserve length.
-
-If
-
-    x, y, z :: Applicative f => f a
-
-then it is always the case that
-
-    w = sequenceA [x, y, z] :: Applicative f => f [a]
-
-However `w` does not necessarily have length 3. It does when `f = IO`.
+The only reason `traverse` or `sequenceA` needs `f` to be `Applicative` is
+because `(:)` has two arguments.
