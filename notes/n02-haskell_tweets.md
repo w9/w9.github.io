@@ -153,5 +153,5 @@ Translation examples:
 
 ---
 
-![](img/morphisms.png')
+![](img/morphisms.png)
 
