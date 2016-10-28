@@ -106,3 +106,52 @@ Things in this illusionized realworld object include:
       - Environment Variables
       - Devices
   * Arguments
+
+---
+
+If we could ignore the isomorphisms, `IO a` is just `RW -> (RW, a)`.
+
+So:
+
+    return :: a -> IO a
+           :: a -> RW -> (RW, a)
+
+becomes almost a curried identity function. In fact,
+
+    return = curry id
+
+up to isomorphism.
+
+---
+
+A type `MuhType` is said to be a instance of `Monoid` when a `<>` is defined
+on this type that satisfies:
+
+  * There is a element `e :: MuhType` that `a <> e == e <> a == a` for all `a :: MuhType`
+  * For all `a, b, c :: MuhType`, `(a <> b) <> c == a <> (b <> c)`
+
+Now, when you think of `<>` as a morphism, the associativity and the identity element
+are just two requirements asked by categories.
+
+Reformulating the Haskell's definition of `Monoid` into a category:
+
+  * The only object: `*`
+  * Morphisms: `a`, `b`, `c`, etc.
+  * Identity morphism: `e`
+
+So any Haskell expression for a `Monoid` translates to a **morphism** in this single-valued
+category.
+
+Translation examples:
+
+    e      => * --e--> *
+    a      => * --a--> *
+    a <> b => * --a--> * --b--> *
+           => * --a <> b--> *
+    a <> e => * --a--> * --e--> *
+           => * --a--> *
+
+---
+
+![](img/morphisms.png')
+
