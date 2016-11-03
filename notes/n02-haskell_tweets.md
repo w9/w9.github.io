@@ -155,3 +155,39 @@ Translation examples:
 
 ![](img/morphisms.png)
 
+---
+
+The morphisms in a general category do **not** actually form a monoid. This is because
+not all morphisms can be composed. For example, its undefined to compose
+
+    (a -> b) <> (c -> d)
+
+which also implies that there are more than one identity candidates (id morphisms for all individual objects).
+
+---
+
+# In what sense are monads monoid?
+
+"A monad is a monoid for endofunctors."
+
+Functors map two things: objects and morphisms.
+
+...TBC...
+
+---
+
+RankNTypes permits higher-rank types.
+
+[This SO answer explained it very well.](http://stackoverflow.com/a/12031900/667027)
+
+To add to it, the syntax can be intepreted as that
+
+    (forall a. a -> b) -> c
+
+only accepts a function with type `forall a. a -> String`, or `forall a. a -> Int`, etc. That is, it does **not** accept
+a function with type `Int -> String`. This is not possible to specify without RankNTypes.
+
+This also explains why `(forall a. a) -> ()` is rank-2 but `(forall a. a)` is rank-1.
+
+    u :: (forall a. a) -> ()
+    u x = const () (x :: Int, x :: String)
