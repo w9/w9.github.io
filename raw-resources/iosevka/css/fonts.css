@@ -1,5 +1,5 @@
 x-screen {
-  font-feature-settings: "calt";
+  font-feature-settings: "calt" 1, "XV00" 1;
 }
 
 @font-face {
