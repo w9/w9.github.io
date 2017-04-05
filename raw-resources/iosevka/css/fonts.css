@@ -1,3 +1,7 @@
+x-screen {
+  font-feature-settings: "calt";
+}
+
 @font-face {
 	font-family: IosevkaWEB;
 	font-weight: 100;
