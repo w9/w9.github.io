@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="e9780393083385" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Swerve</dc:title>
+    <dc:creator>Stephen Greenblatt</dc:creator>
+    <dc:subject/>
+    <dc:description/>
+    <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+    <dc:date>2011-09-15</dc:date>
+    <dc:identifier id="e9780393083385">e9780393083385</dc:identifier>
+    <dc:source/>
+    <dc:language>en-US</dc:language>
+    <dc:language>fr-FR</dc:language>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>All Rights Reserved</dc:rights>
+    <meta content="x9780393064476_fc_fmt.jpeg" name="cover"/>
+    <meta content="1" name="GBSProcVer"/>
+    <meta content="GoogleEbooks" name="GBSEpubSource"/>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="images/1%20Seated%20Hermes_fmt.jpeg" id="x1-20Seated-20Hermes_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/10%20Niccoli%27s%20transcript_fmt.png" id="x10-20Niccoli-27s-20transcript_fmt.png" media-type="image/png"/>
+    <item href="images/11Primavera_fmt.jpeg" id="x11Primavera_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/13%20frontispiece%20of%20Mont_fmt.png" id="x13-20frontispiece-20of-20Mont_fmt.png" media-type="image/png"/>
+    <item href="images/14%20Giordano%20Bruno_fmt.jpeg" id="x14-20Giordano-20Bruno_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/2%20Drunken%20Silenus_fmt.png" id="x2-20Drunken-20Silenus_fmt.png" media-type="image/png"/>
+    <item href="images/3%20bust%20of%20Epicurus_fmt.jpeg" id="x3-20bust-20of-20Epicurus_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/4%20The%20Flagellation%20of%20C_fmt.png" id="x4-20The-20Flagellation-20of-20C_fmt.png" media-type="image/png"/>
+    <item href="images/5%20portrait%20of%20Poggio_Si_fmt.png" id="x5-20portrait-20of-20Poggio_Si_fmt.png" media-type="image/png"/>
+    <item href="images/6%20detail%20of%20Poggio%20Brac_fmt.png" id="x6-20detail-20of-20Poggio-20Brac_fmt.png" media-type="image/png"/>
+    <item href="images/7%20The%20Death%20of%20Johannes_fmt.png" id="x7-20The-20Death-20of-20Johannes_fmt.png" media-type="image/png"/>
+    <item href="images/9%20Poggio%27s%20handwriting__fmt.png" id="x9-20Poggio-27s-20handwriting__fmt.png" media-type="image/png"/>
+    <item href="images/9780393064476_fc_fmt.jpeg" id="x9780393064476_fc_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt.jpeg" id="line_break_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt1.jpeg" id="line_break_fmt1.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt2.jpeg" id="line_break_fmt2.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt3.jpeg" id="line_break_fmt3.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt4.jpeg" id="line_break_fmt4.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt5.jpeg" id="line_break_fmt5.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt6.jpeg" id="line_break_fmt6.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt7.jpeg" id="line_break_fmt7.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt8.jpeg" id="line_break_fmt8.jpeg" media-type="image/jpeg"/>
+    <item href="images/line_break_fmt9.jpeg" id="line_break_fmt9.jpeg" media-type="image/jpeg"/>
+    <item href="images/wwnorton_fmt.jpeg" id="wwnorton_fmt.jpeg" media-type="image/jpeg"/>
+    <item href="TheSwerve.html" id="TheSwerve" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-1.html" id="TheSwerve-1" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-2.html" id="TheSwerve-2" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-3.html" id="TheSwerve-3" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-4.html" id="TheSwerve-4" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-6.html" id="TheSwerve-6" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-7.html" id="TheSwerve-7" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-8.html" id="TheSwerve-8" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-9.html" id="TheSwerve-9" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-10.html" id="TheSwerve-10" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-11.html" id="TheSwerve-11" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-12.html" id="TheSwerve-12" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-13.html" id="TheSwerve-13" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-14.html" id="TheSwerve-14" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-15.html" id="TheSwerve-15" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-16.html" id="TheSwerve-16" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-17.html" id="TheSwerve-17" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-18.html" id="TheSwerve-18" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-19.html" id="TheSwerve-19" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-20.html" id="TheSwerve-20" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-21.html" id="TheSwerve-21" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-22.html" id="TheSwerve-22" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-5.html" id="TheSwerve-5" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-24.html" id="TheSwerve-24" media-type="application/xhtml+xml"/>
+    <item href="TheSwerve-23.html" id="TheSwerve-23" media-type="application/xhtml+xml"/>
+    <item href="template.css" id="css" media-type="text/css"/>
+    <item href="_page_map_.xml" id="_page_map_" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine page-map="_page_map_" toc="ncx">
+    <itemref idref="TheSwerve"/>
+    <itemref idref="TheSwerve-1"/>
+    <itemref idref="TheSwerve-2"/>
+    <itemref idref="TheSwerve-3"/>
+    <itemref idref="TheSwerve-4"/>
+    <itemref idref="TheSwerve-6"/>
+    <itemref idref="TheSwerve-7"/>
+    <itemref idref="TheSwerve-8"/>
+    <itemref idref="TheSwerve-9"/>
+    <itemref idref="TheSwerve-10"/>
+    <itemref idref="TheSwerve-11"/>
+    <itemref idref="TheSwerve-12"/>
+    <itemref idref="TheSwerve-13"/>
+    <itemref idref="TheSwerve-14"/>
+    <itemref idref="TheSwerve-15"/>
+    <itemref idref="TheSwerve-16"/>
+    <itemref idref="TheSwerve-17"/>
+    <itemref idref="TheSwerve-18"/>
+    <itemref idref="TheSwerve-19"/>
+    <itemref idref="TheSwerve-20"/>
+    <itemref idref="TheSwerve-21"/>
+    <itemref idref="TheSwerve-22"/>
+    <itemref idref="TheSwerve-5"/>
+    <itemref idref="TheSwerve-24"/>
+    <itemref idref="TheSwerve-23"/>
+  </spine>
+  <guide>
+    <reference href="TheSwerve.html" title="Cover Image" type="cover"/>
+    <reference href="TheSwerve-23.html" title="Copyright" type="copyright"/>
+    <reference href="TheSwerve-4.html" title="Table of Contents" type="toc"/>
+  </guide>
+</package>

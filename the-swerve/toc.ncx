@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="e9780393083385" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="TheSwerve.html#toc_marker-1" />
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Also By</text>
+      </navLabel>
+      <content src="TheSwerve-1.html#toc_marker-2" />
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="TheSwerve-2.html#toc_marker-3" />
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="TheSwerve-3.html#toc_marker-4" />
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="TheSwerve-4.html#toc_marker-5" />
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="TheSwerve-6.html#toc_marker-7" />
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>CHAPTER ONE: THE BOOK HUNTER</text>
+      </navLabel>
+      <content src="TheSwerve-7.html#toc_marker-8" />
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>CHAPTER TWO: THE MOMENT OF DISCOVERY</text>
+      </navLabel>
+      <content src="TheSwerve-8.html#toc_marker-9" />
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>CHAPTER THREE: IN SEARCH OF LUCRETIUS</text>
+      </navLabel>
+      <content src="TheSwerve-9.html#toc_marker-10" />
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>CHAPTER FOUR: THE TEETH OF TIME</text>
+      </navLabel>
+      <content src="TheSwerve-10.html#toc_marker-11" />
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>CHAPTER FIVE: BIRTH AND REBIRTH</text>
+      </navLabel>
+      <content src="TheSwerve-11.html#toc_marker-12" />
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>CHAPTER SIX: IN THE LIE FACTORY</text>
+      </navLabel>
+      <content src="TheSwerve-12.html#toc_marker-13" />
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>CHAPTER SEVEN: A PIT TO CATCH FOXES</text>
+      </navLabel>
+      <content src="TheSwerve-13.html#toc_marker-14" />
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>CHAPTER EIGHT: THE WAY THINGS ARE</text>
+      </navLabel>
+      <content src="TheSwerve-14.html#toc_marker-15" />
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>CHAPTER NINE: THE RETURN</text>
+      </navLabel>
+      <content src="TheSwerve-15.html#toc_marker-16" />
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>CHAPTER TEN: SWERVES</text>
+      </navLabel>
+      <content src="TheSwerve-16.html#toc_marker-17" />
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>CHAPTER ELEVEN: AFTERLIVES</text>
+      </navLabel>
+      <content src="TheSwerve-17.html#toc_marker-18" />
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="TheSwerve-18.html#toc_marker-19" />
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="TheSwerve-19.html#toc_marker-20" />
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>Selected Bibliography</text>
+      </navLabel>
+      <content src="TheSwerve-20.html#toc_marker-21" />
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>Photograph Credits</text>
+      </navLabel>
+      <content src="TheSwerve-21.html#toc_marker-22" />
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="TheSwerve-22.html#toc_marker-23" />
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>Photo Insert</text>
+      </navLabel>
+      <content src="TheSwerve-5.html#toc_marker-6" />
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>Praise</text>
+      </navLabel>
+      <content src="TheSwerve-24.html#toc_marker-25" />
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="TheSwerve-23.html#toc_marker-24" />
+    </navPoint>
+  </navMap>
+</ncx>
